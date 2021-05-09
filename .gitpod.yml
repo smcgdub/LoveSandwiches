@@ -10,3 +10,6 @@ vscode:
     - eventyret.bootstrap-4-cdn-snippet
     - kevinglasson.cornflakes-linter
     - hookyqr.beautify
+    - coenraads.bracket-pair-colorizer@1.0.61:fa3401caa00b5b4897921a5ddb2cd8cd
+    - kevinrose.vsc-python-indent@1.13.1:858e0655a5f0e6bb7b2b150c89b66271
+    - sirtori.indenticator@0.7.0:5d73f5d6680dd75efc7992914b58e259
